@@ -19,7 +19,6 @@
 <a href="https://twitter.com/8d0754382a0749d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8d0754382a0749d" height="30" width="40" /></a>
 <a href="https://kaggle.com/snehalmhatre25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="snehalmhatre25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/snehalmhatre2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snehalmhatre2501" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/snehal.vitthal.mhatre#!/?newProfile=&activeTab=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snehalmhatre2501" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

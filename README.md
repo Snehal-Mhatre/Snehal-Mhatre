@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-⚡   Fun fact: I ❤️ to dance
+⚡     Fun fact: I ❤️ to dance
 
 - 📫 How to reach me **smhatr6@uic.edu**
 

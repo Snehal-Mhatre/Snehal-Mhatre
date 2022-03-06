@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Snehal Mhatre</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on **ML Deployment project**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **How to efficiently use data to make a difference**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **anything**
 
-⚡ Fun fact: I ❤️ to dance
+⚡   Fun fact: I ❤️ to dance
 
 - 📫 How to reach me **smhatr6@uic.edu**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehal Mhatre</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">A Data Enthusiast</h3>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Projects**
 
 - 🌱 I’m currently learning **How to efficiently use data to make a difference**
 

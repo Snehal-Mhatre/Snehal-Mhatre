@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Snehal Mhatre</h1>
-<h3 align="center">A Data Enthusiast</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working as a **Data Scientist**
 

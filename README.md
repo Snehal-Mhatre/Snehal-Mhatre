@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehal Mhatre</h1>
 <h3 align="center">A Data Enthusiast</h3>
 
-- 🔭 I’m currently working on **Data Projects**
+- 🔭 I’m currently working as a **Data Scientist**
 
 - 🌱 I’m currently learning **How to efficiently use data to make a difference**
 
@@ -11,7 +11,7 @@
 
 ⚡     Fun fact: I ❤️ to dance
 
-- 📫 How to reach me **smhatr6@uic.edu**
+- 📫 How to reach me **snehalmhatre2501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
